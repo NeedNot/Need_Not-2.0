@@ -5,7 +5,7 @@ import math
 
 domain = '45.43.12.162:25533'
 
-token = 'no'
+token = 'NzI0NDU1NzI0NTkxMjE4NzQy.XvD-QA.aYSvcM_vUbAW2eNvBES3JAxj4G0'
 
 client = commands.Bot(command_prefix='n!')
 client.remove_command('help')
