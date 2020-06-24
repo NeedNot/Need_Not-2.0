@@ -3,7 +3,7 @@ from discord.ext import commands
 import requests
 import math
 
-domain = 'localhost:7000'
+domain = '104.238.220.12:25533'
 
 token = 'NzI0NDU1NzI0NTkxMjE4NzQy.XvD-QA.aYSvcM_vUbAW2eNvBES3JAxj4G0'
 
